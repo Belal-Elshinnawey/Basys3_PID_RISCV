@@ -1,0 +1,18 @@
+AXILiteS_s_axi_Reg_I_0:
+- AXILiteS_s_axi_Reg_Interface
+- None
+axi_bram_ctrl_0:
+- axi_bram_ctrl
+- bram
+axi_quad_spi_0:
+- axi_quad_spi
+- spi
+axi_uartlite_0:
+- axi_uartlite
+- uartlite
+microblaze_riscv_0_axi_intc:
+- axi_intc
+- intc
+microblaze_riscv_0_local_memory_dlmb_bram_if_cntlr:
+- lmb_bram_if_cntlr
+- bram
